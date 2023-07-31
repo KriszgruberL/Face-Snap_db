@@ -1,0 +1,58 @@
+{
+  "facesnaps": [
+    {
+      "id": 1,
+      "title": "Archibald",
+      "description": "Mon meilleur ami depuis tout petit !",
+      "imageUrl": "https://cdn.pixabay.com/photo/2015/05/31/16/03/teddy-bear-792273_1280.jpg",
+      "createdDate": "Mon Dec 13 2021 14:51:42 GMT+0100 (Central European Standard Time)",
+      "snaps": 92,
+      "location": "Paris"
+    },
+    {
+      "id": 2,
+      "title": "Froggie",
+      "description": "Chilling on a leaf !",
+      "imageUrl": "https://i.redd.it/szkre5h6c7131.jpg",
+      "createdDate": "Mon Dec 13 2021 14:51:42 GMT+0100 (Central European Standard Time)",
+      "snaps": 17,
+      "location": "Nowhere"
+    },
+    {
+      "id": 3,
+      "title": "Ducky",
+      "description": "Peace was never an option",
+      "imageUrl": "https://4kwallpapers.com/images/walls/thumbs_3t/10104.png",
+      "createdDate": "Mon Dec 13 2021 14:51:42 GMT+0100 (Central European Standard Time)",
+      "snaps": 30,
+      "location": "IDK"
+    },
+    {
+      "id": 4,
+      "title": "Kitty",
+      "description": "Adorable cat!",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5R_UxydkWpXATDEFNBdLTAXUYq8rN-JAmNw&usqp=CAU",
+      "createdDate": "Mon Dec 13 2021 14:51:42 GMT+0100 (Central European Standard Time)",
+      "snaps": 25,
+      "location": "Home"
+    },
+    {
+      "id": 5,
+      "title": "Puppy",
+      "description": "Sleepy is my mood. Everyday",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgQvwo7As3HEHUwbpA2hnmOc3-tF3rXNcC6g&usqp=CAU",
+      "createdDate": "Mon Dec 13 2021 14:51:42 GMT+0100 (Central European Standard Time)",
+      "snaps": 15,
+      "location": "Backyard"
+    },
+    {
+      "id": 6,
+      "title": "Bunny",
+      "description": "GIMMEH opinion",
+      "imageUrl": "https://i.chzbgr.com/thumb1200/4105733/hA5453C0D/a-funny-memes-list-of-cute-bunnies",
+      "createdDate": "Mon Dec 13 2021 14:51:42 GMT+0100 (Central European Standard Time)",
+      "snaps": 20,
+      "location": "Garden"
+    }
+  ]
+}
